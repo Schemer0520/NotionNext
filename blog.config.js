@@ -65,11 +65,13 @@ const BLOG = {
     // 'https://npm.elemecdn.com/lxgw-wenkai-webfont@1.6.0/style.css',
     'https://fonts.googleapis.com/css?family=Bitter&display=swap',
     'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap',
-    'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300&display=swap'
+    'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300&display=swap',
+    'https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap'
   ],
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
     // '"LXGW WenKai"',
+    '"Zhi Mang Xing"',
     '"PingFang SC"',
     '-apple-system',
     'BlinkMacSystemFont',
